@@ -3,7 +3,9 @@ import tachyons from 'tachyons'
 
 function About() {
 	return(
-		<h3 className='tc'>About</h3>
+		<div className='vh-75'>
+			<h3 className='tc'>About</h3>
+		</div>
 	)
 }
 
